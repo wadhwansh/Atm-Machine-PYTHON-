@@ -3,7 +3,7 @@
 <b>ATM System Simulation</b><br>
 This ATM System project is a Python-based simulation that emulates basic banking operations typically found in an ATM. Designed for educational purposes, this project allows users to interact with a simulated ATM to perform various functions.<br><br>
 
-<b>Key Features<b><br></b>
+<b>Key Features<br></b>
 <b><i>Account Management:</b></i> Users can check their account balance, withdraw funds, deposit money, and change their PIN.
 <br><b><i>Persistent Storage:</b></i> Account details, including balances and PINs, are stored in a text file (accounts.txt), ensuring data persists across program executions.
 <br><b><i>Security:</b></i> Users must enter a valid PIN to access their account, and can change their PIN for added security.
